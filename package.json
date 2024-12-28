@@ -1,0 +1,20 @@
+{
+  "name": "pouchcms-mono",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["cms","content management","authentication","supabase","clerk","api","subscriptions","lemon squizy"],
+  "author": {
+    "name": "pouchlabs",
+    "url": "https://pouchlabs.xyz"
+  },
+  "license": "MIT",
+  "description": "next Gen headless content management system",
+  "repository": {
+    "url": "https://github.com/pouchlabs/pouchcms"
+  },
+  "workspaces":["./apps","./packages","./examples"]
+
+}
